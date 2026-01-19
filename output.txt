@@ -1,0 +1,3 @@
+root     3711752  0.0  0.0 1827316 12060 pts/4   Sl   11:46   0:00 ./butterFactory.elf
+root     3738737  0.0  0.0   2800  1792 ?        SN   11:53   0:00 sh -c ps aux | grep butterFactory 
+root     3738739  0.0  0.0   6676  2304 ?        SN   11:53   0:00 grep butterFactory
